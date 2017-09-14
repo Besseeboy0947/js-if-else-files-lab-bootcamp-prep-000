@@ -7,5 +7,4 @@ if (name === "Susan") {
 }
 module.exports = { name, height
 }
-`nodejs index.js
 
